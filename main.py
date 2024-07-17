@@ -3,9 +3,6 @@ import telebot
 from flask import Flask, request
 from telebot import types
 
-import os
-import json
-import time
 
 
 # Reemplaza 'YOUR_TOKEN' con el token que obtuviste de BotFather
